@@ -8,5 +8,7 @@ declare type ISO31661Map = {
     };
 }
 
-export default ISO31661Map;
+declare const iso31661map: ISO31661Map
+
+export default iso31661map;
 export {};

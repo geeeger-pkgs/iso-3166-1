@@ -1,6 +1,6 @@
 {
   "name": "@geeeger/iso-3166-1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "iso-3166-1国家中英文对照, 自用",
   "main": "index.js",
   "types": "index.d.ts",
