@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/geeeger/iso-3166-1.git"
+    "url": "https://github.com/geeeger-pkgs/iso-3166-1.git"
   },
   "keywords": [
     "iso-3166-1"
@@ -20,9 +20,9 @@
     "index.d.ts"
   ],
   "bugs": {
-    "url": "https://github.com/geeeger/iso-3166-1/issues"
+    "url": "https://github.com/geeeger-pkgs/iso-3166-1/issues"
   },
-  "homepage": "https://github.com/geeeger/iso-3166-1#readme",
+  "homepage": "https://github.com/geeeger-pkgs/iso-3166-1#readme",
   "author": "geeeger <lph1988520@sina.com>",
   "license": "MIT"
 }
